@@ -190,4 +190,4 @@ Observation and action design draws on *Evolution Gym* (Bhatia et al., NeurIPS 2
 
 ---
 
-#### Copyright (c) 2026 Y.S.Shim, PCU-Game Lab. All rights reserved.
+#### Copyright (c) Y.S.Shim, J.M.Hwang, PCU-Game Lab., Pai Chai Univ., Daejeon, South Korea. All rights reserved.
